@@ -14,3 +14,6 @@ The 4 major Android application components are used:
 - Service
 - Content Provider
 - Broadcast Receiver
+
+## 
+Resporitory for Archival Purposes, All Rights Reserved.
